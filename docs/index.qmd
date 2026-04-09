@@ -10,6 +10,18 @@ format:
     title-block-style: manuscript
 ---
 
+<div>
+[Audio overview in spanish.]{.aside}
+<audio controls style="width:100%;">
+<source src="spanish_overview.m4a" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</div>
+
+<br>
+
+![Infographic made with NotebookLM based on the current document.](infographic.png){width=100%}
+
 ## Overview of Main Findings
 
 The study analyzes cardiac autonomic modulation in athletes (n = 34, from which 15 were females) through a Bayesian multivariate regression framework, isolating the distinct impacts of training variables, body composition, hemodynamics, and age on heart rate variability (HRV). The findings reveal a clear divergence in how training affects the autonomic nervous system. Frequent sport practice acts as a robust stimulus for parasympathetic dominance, significantly enhancing high-frequency power, RMSSD, and overall HRV. Conversely, long-term accumulated training experience without appropriate recovery suppresses autonomic function, leading to parasympathetic withdrawal and increased allostatic load.
